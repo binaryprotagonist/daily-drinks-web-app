@@ -1,4 +1,4 @@
-# myapp
+# daily-drinks-web-app
 
 ## Project setup
 ```
